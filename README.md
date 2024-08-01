@@ -90,13 +90,7 @@
 ![SensingTech](https://img.shields.io/badge/SensingTech-FF0000?style=flat-square&logo=SensingTech&logoColor=white)
 
 ## 📧Contact me:
-- Personal website: [![website](https://img.shields.io/badge/fjqz177.top-3693F3?style=flat-square&logo=icloud&logoColor=white)](https://fjqz177.top)
-- Twitter: [![Twitter](https://img.shields.io/badge/@fjqz177-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/fjqz177) 
-- Weibo: [![Weibo](https://img.shields.io/badge/@fjqz177-E6162D?style=flat-square&logo=sina-weibo&logoColor=white)](https://weibo.com/5862441076)
-- Email: [![Email](https://img.shields.io/badge/fjqz177@139.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:fjqz177@139.com)
+- Email: [![Email](https://img.shields.io/badge/zeroxus@outlook.com-D14836?style=flat-square&logo=foxmail&logoColor=white)](mailto:zeroxus@foxmail.com)
 
 ## My program
-[![Readme Card](https://github-readme-stats-fjqz177.vercel.app/api/pin/?username=fjqz177&repo=Python-Program)](https://github.com/fjqz177/Python-Program)
-[![Readme Card](https://github-readme-stats-fjqz177.vercel.app/api/pin/?username=fjqz177&repo=Cpp-Program)](https://github.com/fjqz177/Cpp-Program)
-[![Readme Card](https://github-readme-stats-fjqz177.vercel.app/api/pin/?username=fjqz177&repo=unlock-music)](https://github.com/fjqz177/unlock-music)
-[![Readme Card](https://github-readme-stats-fjqz177.vercel.app/api/pin/?username=fjqz177&repo=homo.js)](https://github.com/fjqz177/homo.js)
+[![Readme Card](https://github-readme-stats-fjqz177.vercel.app/api/pin/?username=fjqz177&repo=Python-Program)](https://github.com/UPTOLIMIT/Python-Program)
