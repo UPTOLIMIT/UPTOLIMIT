@@ -92,5 +92,3 @@
 ## 📧Contact me:
 - Email: [![Email](https://img.shields.io/badge/zeroxus@outlook.com-D14836?style=flat-square&logo=foxmail&logoColor=white)](mailto:zeroxus@foxmail.com)
 
-## My program
-[![Readme Card](https://github-readme-stats-fjqz177.vercel.app/api/pin/?username=fjqz177&repo=Python-Program)](https://github.com/UPTOLIMIT/Python-Program)
