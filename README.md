@@ -1,7 +1,7 @@
 ![](assets/Bottom_up.svg)
 
 <p align="center">
-    <a href="https://www.cnblogs.com/uptolimit"><img src="https://readme-typing-svg.herokuapp.com?font=consolas&weight=100&size=45&duration=4000&pause=4000&center=%E7%9C%9F%E7%9A%84&vCenter=%E7%9C%9F%E7%9A%84&multiline=true&width=430&height=70&lines=青青子衿\ 悠悠我心" alt="Typing SVG" /></a>
+    <a href="https://www.cnblogs.com/uptolimit"><img src="https://readme-typing-svg.herokuapp.com?font=consolas&weight=100&size=45&duration=4000&pause=4000&center=%E7%9C%9F%E7%9A%84&vCenter=%E7%9C%9F%E7%9A%84&multiline=true&width=430&height=70&lines=青青子衿&nbsp悠悠我心" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
