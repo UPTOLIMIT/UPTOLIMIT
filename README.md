@@ -25,10 +25,10 @@
 <span>&emsp;&emsp;</span>
 </div>
 
-<div align="center">
+<!--<div align="center">
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=UPTOLIMIT" />
     <img  src="https://github-profile-trophy.vercel.app/?username=UPTOLIMIT&row=1" />
-</div>
+</div> -->
 
 ## ⚔️Languages:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
