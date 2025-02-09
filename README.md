@@ -77,7 +77,11 @@
 
 
 ## 🛠️Workframe:
-![PySide6](https://img.shields.io/badge/-PySide6)
+![PySide6](https://img.shields.io/badge/PySide6-blue)
+![PyTest](https://img.shields.io/badge/PyTest-green)
+![Flask](https://img.shields.io/badge/Flask-black)
+
+
 
 ## 🛠️Tech:
 ![Bluetooth](https://img.shields.io/badge/Bluetooth-0082FC?style=flat-square&logo=Bluetooth&logoColor=white)
