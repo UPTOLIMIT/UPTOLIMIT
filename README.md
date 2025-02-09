@@ -77,10 +77,7 @@
 
 
 ## 🛠️Workframe:
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=Electron&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white)
+![PySide6](https://img.shields.io/badge/-PySide6)
 
 ## 🛠️Tech:
 ![Bluetooth](https://img.shields.io/badge/Bluetooth-0082FC?style=flat-square&logo=Bluetooth&logoColor=white)
