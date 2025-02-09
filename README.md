@@ -80,6 +80,7 @@
 ![PySide6](https://img.shields.io/badge/PySide6-blue)
 ![PyTest](https://img.shields.io/badge/PyTest-green)
 ![Flask](https://img.shields.io/badge/Flask-black)
+![VUE.JS](https://img.shields.io/badge/VueJS-#2ECC71)
 
 
 
